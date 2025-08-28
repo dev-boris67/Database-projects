@@ -1,5 +1,7 @@
 # Aurora Database with EC2
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/13.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-databases-aurora)
 
 **Author:** Nchindo Boris  
