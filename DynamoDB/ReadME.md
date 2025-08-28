@@ -1,5 +1,7 @@
 # Query Data with DynamoDB
 
+![Image](https://github.com/dev-boris67/AWS-Basics/blob/main/Project%20images/14.png?raw=true).
+
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-databases-query)
 
 **Author:** Nchindo Boris  
